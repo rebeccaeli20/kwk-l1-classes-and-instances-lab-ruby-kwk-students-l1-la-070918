@@ -6,4 +6,4 @@ class Dog
   def initialize(fido, snoopy, lassie)
   end
 end
-put Dog
+puts Dog
